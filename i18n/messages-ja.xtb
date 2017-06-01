@@ -935,6 +935,7 @@
   <translation id="173829199104422763" key="MSG_LOGS_TITLE_FROM" desc="Title prefix for logs card.">Logs from</translation>
   <translation id="545013982201122635" key="MSG_LOGS_TITLE_IN" desc="Title part for logs card.">in</translation>
   <translation id="9015703491006359663" key="MSG_LOGS_TITLE_TO" desc="Footer part for logs card.">to</translation>
+  <translation id="3402202863027894322" key="MSG_LOGS_TRUNCATED_WARNING" desc="Error dialog indicating that parts of the log file is missing due to memory constraints.">The middle part of the log file cannot be loaded, because it is too big.</translation>
   <translation id="7594890250973129963" key="MSG_LOGS_ZEROSTATE_TEXT" desc="Text for logs card zerostate in logs page.">選択されたコンテナにはログにメッセージが記録されていません。</translation>
   <translation id="3682516833237634630" key="MSG_LOGS_ZEROSTATE_TITLE" desc="Title for logs card zerostate in logs page.">表示するものがありません</translation>
   <translation id="8827015449851505134" key="MSG_NAMESPACE" desc="Title for namespace select.">ネームスペース</translation>
